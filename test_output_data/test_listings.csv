@@ -1,0 +1,3 @@
+MlsId,MlsName,DateListed,StreetAddress,Price,Bedrooms,Bathrooms,Appliances,Rooms,Description
+8,9,2015-09-18 00:00:00,456 Other Test St.,10,11,"('Full Bathrooms', '18'), ('Half Bathrooms', '19'), ('Three Quarter Bathrooms', '20')","'Appliance2', 'Appliance3'",'Room3',and another sample description
+1,2,2016-08-29 00:00:00,123 Test St.,3,4,"('Full Bathrooms', '15'), ('Half Bathrooms', '16'), ('Three Quarter Bathrooms', '17')",'Appliance1',"'Room1', 'Room2'",sample description
