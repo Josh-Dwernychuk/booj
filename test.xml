@@ -1,0 +1,56 @@
+<Listings>
+  <Listing>
+    <Location>
+        <StreetAddress>123 Test St.</StreetAddress>
+    </Location>
+    <ListingDetails>
+        <DateListed>2016-08-29 00:00:00</DateListed>
+        <MlsId>1</MlsId>
+        <MlsName>2</MlsName>
+        <Price>3</Price>
+    </ListingDetails>
+    <BasicDetails>
+        <Description>sample description</Description>
+        <Bedrooms>4</Bedrooms>
+        <FullBathrooms>15</FullBathrooms>
+        <HalfBathrooms>16</HalfBathrooms>
+        <ThreeQuarterBathrooms>17</ThreeQuarterBathrooms>
+    </BasicDetails>
+    <RichDetails>
+      <Appliances>
+        <Appliance>Appliance1</Appliance>
+      </Appliances>
+      <Rooms>
+        <Room>Room1</Room>
+        <Room>Room2</Room>
+      </Rooms>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <Location>
+        <StreetAddress>456 Other Test St.</StreetAddress>
+    </Location>
+    <ListingDetails>
+        <DateListed>2015-09-18 00:00:00</DateListed>
+        <MlsId>8</MlsId>
+        <MlsName>9</MlsName>
+        <Price>10</Price>
+    </ListingDetails>
+    <BasicDetails>
+        <Description>and another sample description</Description>
+        <Bedrooms>11</Bedrooms>
+        <FullBathrooms>18</FullBathrooms>
+        <HalfBathrooms>19</HalfBathrooms>
+        <ThreeQuarterBathrooms>20</ThreeQuarterBathrooms>
+    </BasicDetails>
+    <RichDetails>
+      <Appliances>
+        <Appliance>Appliance2</Appliance>
+        <Appliance>Appliance3</Appliance>
+      </Appliances>
+      <Rooms>
+        <Room>Room3</Room>
+      </Rooms>
+    </RichDetails>
+  </Listing>
+</Listings>
